@@ -9,6 +9,6 @@ public class Hambriento : IEstado
 
     public void Jugar(Mascota mascota)
     {
-        throw new NotImplementedException("No puede jugar");
+
     }
 }

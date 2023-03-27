@@ -16,7 +16,7 @@ public class Mascota
     }
     public void Comer()
     {
-        
+
     }
 
     public void IncrementarNivel(int unidades) => this.Nivel = this.Nivel + unidades;

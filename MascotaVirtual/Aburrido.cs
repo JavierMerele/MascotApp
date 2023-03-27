@@ -14,7 +14,7 @@ public class Aburrido : IEstado
     public void Comer(Mascota mascota)
     {
         if (IntervaloAburrida > IntervaloComer)
-            mascota.Estado(new Contento());
+            mascota.Estado = new Contento();
     }
 
     public void Jugar(Mascota mascota)
