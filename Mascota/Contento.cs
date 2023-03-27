@@ -1,4 +1,4 @@
-namespace MascotaVirtual;
+namespace Mascota;
 
 public class Contento : IEstado
 {
